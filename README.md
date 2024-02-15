@@ -9,7 +9,7 @@
 - 🔭 Estou trabalhando com Front-end
 - 🌱 Estudando React
 - 📫 Contate-me no whatsapp: (83)994023563
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 
 <br>
 
