@@ -6,10 +6,10 @@
 
 <br>
 
-- 🔭 Estou trabalhando com Front-end
-- 🌱 Estudando React
+- 🔭 Estou trabalhando como Front-end
+- 🌱 Estudando Next
 - 📫 Contate-me no whatsapp: (83)994023563
-- 😄 Pronome: ele/dele
+
 
 <br>
 
