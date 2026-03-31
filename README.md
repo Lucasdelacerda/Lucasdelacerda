@@ -13,10 +13,14 @@ Gosto de mergulhar em regras de negócio complexas e transformá-las em APIs esc
   <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Backend Skills" />
 </div>
 
+<br />
+
 **Front-end & UI/UX**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,styledcomponents,html,css&theme=dark" alt="Frontend Skills" />
 </div>
+
+<br />
 
 **Tools & Devops**
 <div align="left">
@@ -29,22 +33,16 @@ Gosto de mergulhar em regras de negócio complexas e transformá-las em APIs esc
 ---
 
 ### 📊 Estatísticas e Desempenho
-<p align="center">
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdelacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdelacerda&layout=compact&langs_count=7&theme=dracula" />
-</p>
+</div>
 
-### 📈 Fluxo de Trabalho
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasdelacerda&theme=dracula&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🏆 Conquistas
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucasdelacerda&theme=dracula&no-frame=true&margin-w=15&column=4" />
-</p>
+### 📈 Atividade no GitHub
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasdelacerda&theme=dracula&hide_border=true" />
+</div>
 
 ---
 
@@ -52,7 +50,7 @@ Gosto de mergulhar em regras de negócio complexas e transformá-las em APIs esc
 Seja para falar de projetos, tecnologia ou só bater um papo sobre desenvolvimento, minhas portas estão abertas:
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/lucas-lacerda-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lacerdalucas270@gmail.com">
