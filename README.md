@@ -1,8 +1,10 @@
-# Olá, eu sou o Lucas de Lacerda! ☕☕
+# Olá, eu sou o Lucas de Lacerda! ☕
 
-Sou um **Desenvolvedor Back-end** focado em construir sistemas robustos, escaláveis e de alta disponibilidade. Minha especialidade é transformar regras de negócio complexas em arquiteturas limpas utilizando o ecossistema **Java** e **Spring Boot**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20Developer&fontSize=70&animation=fadeIn&theme=dracula" />
+</p>
 
-Acredito que a base de um software sólido reside em uma modelagem de dados bem feita e em um código que prioriza a manutenibilidade e a performance.
+Sou um **Desenvolvedor Back-end** focado em construir sistemas robustos e escaláveis. Minha especialidade é o ecossistema **Java** e **Spring Boot**, com forte domínio em persistência de dados e arquitetura de APIs.
 
 ---
 
@@ -15,42 +17,29 @@ Acredito que a base de um software sólido reside em uma modelagem de dados bem 
 
 <br />
 
-**Banco de Dados & Persistência**
+**Banco de Dados & Infra**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&theme=dark" alt="Database and Infra" />
 </div>
-
-<br />
-
-**DevOps & Ferramentas**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" alt="Tools" />
-</div>
-
-> [!IMPORTANT]
-> **Foco Técnico:** Atualmente focado em arquitetura de microserviços, segurança com **Spring Security & JWT**, e otimização de queries com **PostgreSQL**.
 
 ---
 
-### 📊 Desempenho & Atividade
+### 📊 Atividade e Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdelacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdelacerda&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lucasdelacerda&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucasdelacerda&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasdelacerda&theme=dracula&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lucasdelacerda&theme=dracula&area=true&hide_border=true" />
 </div>
 
 ---
 
 ### 🤝 Conecte-se comigo
-Estou sempre aberto a discussões sobre arquitetura de sistemas, Java e novos desafios no Back-end:
-
 <div align="left">
   <a href="https://linkedin.com/in/lucas-lacerda-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
