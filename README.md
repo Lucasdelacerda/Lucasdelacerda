@@ -1,53 +1,55 @@
-# Olá, eu sou o Lucas de Lacerda! 👋 
+# Olá, eu sou o Lucas de Lacerda! ☕☕
 
-Sou um desenvolvedor que acredita que código bom é aquele que resolve problemas reais sem complicar a vida de quem usa (ou de quem mantém). Minha rotina é equilibrar o peso do **Back-end em Java** com a agilidade do **React**, focando sempre em entregar algo que seja robusto por dentro e fluido por fora.
+Sou um **Desenvolvedor Back-end** focado em construir sistemas robustos, escaláveis e de alta disponibilidade. Minha especialidade é transformar regras de negócio complexas em arquiteturas limpas utilizando o ecossistema **Java** e **Spring Boot**.
 
-Gosto de mergulhar em regras de negócio complexas e transformá-las em APIs escaláveis e interfaces que fazem sentido para o usuário. 
+Acredito que a base de um software sólido reside em uma modelagem de dados bem feita e em um código que prioriza a manutenibilidade e a performance.
 
 ---
 
-### 🛠️ O que tenho na mochila
+### 🛠️ Core Stack & Infra
 
-**Back-end & Core**
+**Linguagem & Frameworks**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Backend Skills" />
 </div>
 
 <br />
 
-**Front-end & UI/UX**
+**Banco de Dados & Persistência**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,styledcomponents,html,css&theme=dark" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Database Skills" />
 </div>
 
 <br />
 
-**Tools & Devops**
+**DevOps & Ferramentas**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postgres,mysql,vscode,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" alt="Tools" />
 </div>
 
-> [!TIP]
-> **No dia a dia:** Curto muito a produtividade que o **Lombok** e o **Spring Data JPA** trazem para o Java, e no Front, não abro mão de um **Axios** bem configurado com interceptors para deixar o consumo de APIs redondo.
+> [!IMPORTANT]
+> **Foco Técnico:** Atualmente focado em arquitetura de microserviços, segurança com **Spring Security & JWT**, e otimização de queries com **PostgreSQL**.
 
 ---
 
-### 📊 Estatísticas e Desempenho
+### 📊 Desempenho & Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdelacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdelacerda&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucasdelacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasdelacerda&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
 </div>
 
-### 📈 Atividade no GitHub
+<br />
+
 <div align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasdelacerda&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-### 🤝 Bora trocar uma ideia?
-Seja para falar de projetos, tecnologia ou só bater um papo sobre desenvolvimento, minhas portas estão abertas:
+### 🤝 Conecte-se comigo
+Estou sempre aberto a discussões sobre arquitetura de sistemas, Java e novos desafios no Back-end:
 
 <div align="left">
   <a href="https://linkedin.com/in/lucas-lacerda-dev" target="_blank">
@@ -64,5 +66,5 @@ Seja para falar de projetos, tecnologia ou só bater um papo sobre desenvolvimen
 <br />
 
 <p align="center">
-  <i>"O código limpo sempre parece que foi escrito por alguém que se importa."</i> — <b>Robert C. Martin</b>
+  <i>"Software is a great combination between artistry and engineering."</i> — <b>Bill Gates</b>
 </p>
