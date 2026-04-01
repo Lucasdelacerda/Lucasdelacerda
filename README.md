@@ -41,7 +41,7 @@ Sou um **Desenvolvedor Back-end** focado em construir sistemas robustos e escalÃ
 
 ### ğŸ¤ Conecte-se comigo
 <div align="left">
-  <a href="https://linkedin.com/in/lucas-lacerda-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-de-lacerda-066316186/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lacerdalucas270@gmail.com">
